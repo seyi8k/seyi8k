@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Oluwaseyi!
 
-## An aspiring Linux and Python enthusiast focused on building practical solutions for system administration, IT automation and security. I'm excited and look forward to share my learning journey and the projects I'm working on.
+## An aspiring Linux and Python enthusiast focused on building practical solutions for system administration, IT automation and security. I'm excited to share my learning journey and the projects I'm working on.
 
 ## Connect with me:
 -email: oluwaseyi.a.salami@outlook.com
