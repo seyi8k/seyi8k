@@ -1,5 +1,9 @@
 ## Hi there 👋  I'm Oluwaseyi!
 
+## An aspiring Linux and Python enthusiast focused on building practical solutions for system administration, IT automation and security. I'm excited and look forward to share my learning journey and the projects I'm working on.
+
+## Connect with me:
+-email: oluwaseyi.a.salami@outlook.com
 <!--
 **seyi8k/seyi8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
