@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Oluwaseyi Salami
+## Hi there 👋 My name is Seyi Salami
 
 ### A fellow Linux and Python enthusiast focused on building practical solutions for System Administration, Cloud Infrastructure, IT automation & Security. I'm excited to share my learning journey and the projects I will be working on.
 - 🧠 I'm learning Python Automation, Bash Scripting & Cloud Infrastructure.
